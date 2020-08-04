@@ -17,6 +17,12 @@ After this I've made a dispose function which Ensure disposing of the VideoPlaye
 
 Then I've created a scaffold widget where we are going to give UI design.
 
+![image](https://user-images.githubusercontent.com/56602504/89259153-4fea5200-d647-11ea-859f-d503e76f6044.png)
+
+I've given the full code in main.dart where I've also mentioned comments which tells you why I've used that code .
+
+Below is the screenshots of Final App !!
+
 
 
 ![WhatsApp Image 2020-08-03 at 10 56 37 AM (2)](https://user-images.githubusercontent.com/56602504/89149225-93768a80-d579-11ea-8c70-c2dd27c2ba7c.jpeg)
