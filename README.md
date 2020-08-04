@@ -13,6 +13,10 @@ I've created a  _VideoPlayerScreenState Class which Creates and store the VideoP
 
 After this I've made a dispose function which Ensure disposing of the VideoPlayerController to free up resources.
 
+![image](https://user-images.githubusercontent.com/56602504/89258992-f8e47d00-d646-11ea-96df-d0e524f39a32.png)
+
+Then I've created a scaffold widget where we are going to give UI design.
+
 
 
 ![WhatsApp Image 2020-08-03 at 10 56 37 AM (2)](https://user-images.githubusercontent.com/56602504/89149225-93768a80-d579-11ea-8c70-c2dd27c2ba7c.jpeg)
