@@ -7,7 +7,13 @@ You have to download some of the flutter packages from the pubspec packages whic
 
 After implementing these packages we can start writing the  code. I have written complete code in main.dart file which is not a good pratice, But for better management you can create different files.
 
-I've created a  _VideoPlayerScreenState Class which Creates and store the VideoPlayerController. The VideoPlayerController , offers several different constructors to play videos from assets, files, or the internet. 
+I've created a  _VideoPlayerScreenState Class which Creates and store the VideoPlayerController. The VideoPlayerController , offers several different constructors to play videos from assets, files, or the internet.
+
+![image](https://user-images.githubusercontent.com/56602504/89258889-b622a500-d646-11ea-95e2-78e490d7fc5c.png)
+
+After this I've made a dispose function which Ensure disposing of the VideoPlayerController to free up resources.
+
+
 
 ![WhatsApp Image 2020-08-03 at 10 56 37 AM (2)](https://user-images.githubusercontent.com/56602504/89149225-93768a80-d579-11ea-8c70-c2dd27c2ba7c.jpeg)
 ![WhatsApp Image 2020-08-03 at 10 56 37 AM (1)](https://user-images.githubusercontent.com/56602504/89149231-95d8e480-d579-11ea-938e-27c0c141756b.jpeg)
